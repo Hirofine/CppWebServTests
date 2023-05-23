@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hirofine/Documents/CppWebServTests/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/hangman.dir/main.cpp.o -c /home/hirofine/Documents/CppWebServTests/main.cpp",
+  "file": "/home/hirofine/Documents/CppWebServTests/main.cpp"
+}
+]

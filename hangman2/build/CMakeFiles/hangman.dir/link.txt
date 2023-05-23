@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/hangman.dir/main.cpp.o -o hangman  -L/usr/local/lib -lwthttp -lwt -lboost_system -lboost_thread -lboost_filesystem -lboost_program_options 
